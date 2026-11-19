@@ -1,0 +1,6 @@
+print("yamal = cuci piring")
+print("pedri = kasir")
+print("rodri = pelayan")
+print("gavi = pelayan")
+print("adeyemi = koki")
+print("olmo = koki")
